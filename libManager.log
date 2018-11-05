@@ -36,3 +36,7 @@
 \a cdsLibManager->libLineEdit->value = "ander_logic"
 \o DB was auto refreshed.
 \a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a lmgrLogShowPopup("mainListPopup1" 49 199 2 "")
+\a cdsLibManager->FileNewCVButton->value = t
+\a nrSetCurrentWindow(cdsLibManager)
